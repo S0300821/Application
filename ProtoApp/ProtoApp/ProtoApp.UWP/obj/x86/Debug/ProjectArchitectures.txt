@@ -1,0 +1,1 @@
+C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\ProtoApp.UWP.csproj;x86
