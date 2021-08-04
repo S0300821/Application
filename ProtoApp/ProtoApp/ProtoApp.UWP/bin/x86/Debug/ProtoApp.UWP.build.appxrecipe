@@ -61,8 +61,8 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft\Xamarin\NuGet\xamarin.forms\5.0.0.2012\lib\uap10.0.16299\Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml">
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Havelock.png">
+      <PackagePath>Havelock.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
@@ -180,6 +180,9 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\icon_feed.png">
       <PackagePath>icon_feed.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\ProtoApp.UWP.xr.xml">
       <PackagePath>ProtoApp.UWP.xr.xml</PackagePath>
