@@ -6,8 +6,12 @@
              mc:Ignorable="d"
              x:Class="ProtoApp.Views.LoginPage"
              Shell.NavBarIsVisible="False">
+    <!-- This is the prototype design for the login, whilst the login is visually present, and a database has been made it has not yet been connected. Due to the fact that the information stored within said database would belong to the client, and possibly children.
+    -->
     <ContentPage.Content>
         <StackLayout Padding="10,0,10,0" VerticalOptions="Center">
+            <Entry x:Name="Username" Text="Username" />
+            <Entry x:Name="Password" Text="Password" />
             <Button VerticalOptions="Center" Text="Login" Command="{Binding LoginCommand}"/>
         </StackLayout>
     </ContentPage.Content>
