@@ -54,7 +54,6 @@ C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\mipmap-xxhdpi\launcher_foreground.png
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\icon.png
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\mipmap-xxxhdpi\launcher_foreground.png
-C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\drawable\xamarin_logo.png
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\drawable\icon_about.png
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\drawable\icon_feed.png
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\uploadflags.txt
@@ -578,3 +577,4 @@ C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\sta
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\drawable\havelock.png
+C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.Android\obj\Debug\110\res\drawable\placeholder.png

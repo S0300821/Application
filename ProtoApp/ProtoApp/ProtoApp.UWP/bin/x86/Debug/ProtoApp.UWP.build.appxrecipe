@@ -64,6 +64,9 @@
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Havelock.png">
       <PackagePath>Havelock.png</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Placeholder.png">
+      <PackagePath>Placeholder.png</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
