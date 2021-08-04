@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-08-01T13:00:41.548</Modified>
+      <Modified>2021-08-04T17:39:24.031</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\ProtoApp.UWP.exe">
       <PackagePath>entrypoint\ProtoApp.UWP.exe</PackagePath>
-      <Modified>2021-08-01T13:00:40.851</Modified>
+      <Modified>2021-08-04T17:39:22.108</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.2.12\runtimes\win10-x86\lib\uap10.0.15138\System.Runtime.dll">
       <PackagePath>System.Runtime.dll</PackagePath>
@@ -68,7 +68,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp\bin\Debug\netstandard2.0\ProtoApp.dll">
       <PackagePath>ProtoApp.dll</PackagePath>
-      <Modified>2021-08-01T17:49:06.295</Modified>
+      <Modified>2021-08-04T17:53:22.440</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\.nuget\packages\win2d.uwp\1.20.0\lib\uap10.0\Microsoft.Graphics.Canvas.winmd">
       <PackagePath>Microsoft.Graphics.Canvas.winmd</PackagePath>
@@ -82,168 +82,176 @@
       <PackagePath>Xamarin.Forms.Platform.UAP\Xamarin.Forms.Platform.UAP.xr.xml</PackagePath>
       <Modified>2021-02-12T03:08:38.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2021-07-31T23:53:34.305</Modified>
+    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Havelock.png">
+      <PackagePath>Havelock.png</PackagePath>
+      <Modified>2021-08-04T15:10:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Placeholder.png">
+      <PackagePath>Placeholder.png</PackagePath>
+      <Modified>2021-08-04T17:36:42.389</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\LargeTile.scale-100.png">
       <PackagePath>Assets\LargeTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:33.939</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\LargeTile.scale-200.png">
       <PackagePath>Assets\LargeTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:33.940</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\LargeTile.scale-400.png">
       <PackagePath>Assets\LargeTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:33.969</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\SmallTile.scale-100.png">
       <PackagePath>Assets\SmallTile.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.002</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\SmallTile.scale-200.png">
       <PackagePath>Assets\SmallTile.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.006</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\SmallTile.scale-400.png">
       <PackagePath>Assets\SmallTile.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.043</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\SplashScreen.scale-100.png">
       <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.045</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.047</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\SplashScreen.scale-400.png">
       <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.049</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square150x150Logo.scale-100.png">
       <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.051</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.052</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square150x150Logo.scale-400.png">
       <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.054</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.055</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.056</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.altform-unplated_targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.085</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.scale-100.png">
       <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.087</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.088</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.scale-400.png">
       <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.090</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.targetsize-16.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-16.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.091</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.targetsize-256.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-256.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.093</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Square44x44Logo.targetsize-48.png">
       <PackagePath>Assets\Square44x44Logo.targetsize-48.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.094</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\StoreLogo.scale-100.png">
       <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.096</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\StoreLogo.scale-200.png">
       <PackagePath>Assets\StoreLogo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.098</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\StoreLogo.scale-400.png">
       <PackagePath>Assets\StoreLogo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.229</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Wide310x150Logo.scale-100.png">
       <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.231</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.233</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Assets\Wide310x150Logo.scale-400.png">
       <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2021-07-31T23:53:34.235</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\xamarin_logo.png">
       <PackagePath>xamarin_logo.png</PackagePath>
-      <Modified>2021-07-31T23:53:34.870</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\icon_about.png">
       <PackagePath>icon_about.png</PackagePath>
-      <Modified>2021-07-31T23:53:34.847</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\icon_feed.png">
       <PackagePath>icon_feed.png</PackagePath>
-      <Modified>2021-07-31T23:53:34.848</Modified>
+      <Modified>2021-08-04T15:10:03.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2021-08-04T15:10:03.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\ProtoApp.UWP.xr.xml">
       <PackagePath>ProtoApp.UWP.xr.xml</PackagePath>
-      <Modified>2021-08-01T00:14:51.925</Modified>
+      <Modified>2021-08-04T17:39:22.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2021-08-01T12:42:44.282</Modified>
+      <Modified>2021-08-04T17:39:22.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2021-08-01T12:42:44.283</Modified>
+      <Modified>2021-08-04T17:39:22.047</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.UniversalCRT.Debug\10.0.19041.0\\redist\Debug\x86\ucrtbased.dll">
       <PackagePath>ucrtbased.dll</PackagePath>
@@ -259,11 +267,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2021-08-01T12:52:31.386</Modified>
+      <Modified>2021-08-04T17:39:22.940</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jay_j\source\repos\ProtoApp\ProtoApp\ProtoApp.UWP\bin\x86\Debug\Core\ProtoApp.UWP.exe">
       <PackagePath>ProtoApp.UWP.exe</PackagePath>
-      <Modified>2021-08-01T13:00:41.544</Modified>
+      <Modified>2021-08-04T17:39:24.027</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

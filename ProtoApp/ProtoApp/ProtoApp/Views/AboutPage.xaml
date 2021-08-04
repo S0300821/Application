@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ProtoApp.Views.AboutPage"
              xmlns:vm="clr-namespace:ProtoApp.ViewModels"
-             Title="{Binding Title}">
+             Title="Dashboard">
     
     <ContentPage.BindingContext>
         <vm:AboutViewModel />
@@ -11,7 +11,7 @@
     
     <ContentPage.Resources>
         <ResourceDictionary>
-            <Color x:Key="Accent">#96d1ff</Color>
+            <Color x:Key="Accent">#f7f7f7</Color>
         </ResourceDictionary>
     </ContentPage.Resources>
 
@@ -22,21 +22,26 @@
         </Grid.RowDefinitions>
         <StackLayout BackgroundColor="{StaticResource Accent}" VerticalOptions="FillAndExpand" HorizontalOptions="Fill">
             <StackLayout Orientation="Horizontal" HorizontalOptions="Center" VerticalOptions="Center">
-                <ContentView Padding="0,40,0,40" VerticalOptions="FillAndExpand">
-                    <Image Source="xamarin_logo.png" VerticalOptions="Center" HeightRequest="64" />
+                <ContentView Padding="0,10,0,10" VerticalOptions="FillAndExpand">
+                    <Image Source="Havelock.png" VerticalOptions="Center" HeightRequest="220" />
                 </ContentView>
             </StackLayout>
         </StackLayout>
         <ScrollView Grid.Row="1">
             <StackLayout Orientation="Vertical" Padding="30,24,30,24" Spacing="10">
-                <Label Text="Start developing now" FontSize="Title"/>
-                <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="0,0,0,0"/>
+                <Label Text="Welcome to the test application of Havelock Academy" FontSize="Title"/>
+                <Label Text="We are proud of everything that we achieve at Havelock Academy.
+
+Our fantastic new building was officially opened by HRH The Duchess of Cambridge in March 2013. Since our opening, we have welcomed further visits from the 2014 Commonwealth Games Queen's Baton, Olympic athletes and Members of Parliament.  We offer unrivalled enrichment and educational opportunities.
+
+ Our community is based on strong relationships and leadership, developed through the house pastoral system. We have eight houses who all compete and cooperate with each other in all areas of academy life. Good manners, being smart and thinking about others are all central to our expectations. To find out more about the academy, who we are and what we can offer please contact us." FontSize="16" Padding="0,0,0,0"/>
                 <Label FontSize="16" Padding="0,24,0,0">
                     <Label.FormattedText>
                         <FormattedString>
                             <FormattedString.Spans>
-                                <Span Text="Learn more at "/>
-                                <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
+                                <Span Text="If you wish to visit our website to know more about our Academy then please visit us at "/>
+                                <Span Text="https://www.havelockacademy.co.uk/index.asp" FontAttributes="Bold"/>
+                                <Span Text="                                                                                                                                                                                                        Or use the button below"/>
                             </FormattedString.Spans>
                         </FormattedString>
                     </Label.FormattedText>
@@ -45,6 +50,9 @@
                         Command="{Binding OpenWebCommand}"
                         BackgroundColor="{StaticResource Primary}"
                         TextColor="White" />
+                <ContentView Padding="0,10,0,10" VerticalOptions="FillAndExpand">
+                    <Image Source="Placeholder.png" VerticalOptions="Center" HeightRequest="500" />
+                </ContentView>
             </StackLayout>
         </ScrollView>
     </Grid>
